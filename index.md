@@ -24,6 +24,4 @@ The Fetch.ai Innovation Lab is more than a workspace; it’s a community of drea
 
 Let’s build the future together—one autonomous agent at a time.
 
----
 
-Let me know if you want further tweaks or personalization!
